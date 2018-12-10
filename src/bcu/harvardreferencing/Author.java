@@ -1,4 +1,5 @@
 package bcu.harvardreferencing;
+
 public interface Author {
     public String fullName();
     

@@ -1,4 +1,5 @@
 package bcu.harvardreferencing;
+
 public class IndividualAuthor implements Author {
     private final String lastName;
     private final String initials;

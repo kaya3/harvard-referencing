@@ -1,14 +1,8 @@
 package bcu.harvardreferencing.test;
+
+import bcu.harvardreferencing.*;
+
 import org.junit.Test;
-
-import bcu.harvardreferencing.Author;
-import bcu.harvardreferencing.Book;
-import bcu.harvardreferencing.IndividualAuthor;
-import bcu.harvardreferencing.InstitutionalAuthor;
-import bcu.harvardreferencing.JournalArticle;
-import bcu.harvardreferencing.Publication;
-import bcu.harvardreferencing.WebPage;
-
 import static org.junit.Assert.assertEquals;
 
 import java.util.Arrays;

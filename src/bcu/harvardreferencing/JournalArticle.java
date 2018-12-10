@@ -1,4 +1,5 @@
 package bcu.harvardreferencing;
+
 import java.util.List;
 
 public class JournalArticle extends Publication {
