@@ -1,3 +1,4 @@
+package bcu.harvardreferencing;
 import java.util.List;
 
 public class WebPage extends Publication {
